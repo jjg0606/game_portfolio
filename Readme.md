@@ -1,4 +1,4 @@
-cpp_opengl_simple : c++와 opengl 을 이용해서 만든 2d 슈팅게임, 조작법 wasd 이동, 마우스 클릭 - 수리검 날리기, z 음파쏘기<br>
+<h1>cpp_opengl_simple : c++와 opengl 을 이용해서 만든 2d 슈팅게임, 조작법 wasd 이동, 마우스 클릭 - 수리검 날리기, z 음파쏘기</h1><br>
 //깃허브 주소 (https://github.com/jjg0606/practice_opengl_game.git)
                     
 unity_2d_arcade : unity를 이용해서 만든 2d 플랫포머 아케이드 게임, 해상도 1920x1080에 최적화<br>

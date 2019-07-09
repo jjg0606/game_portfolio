@@ -1,3 +1,6 @@
+<h1> 빌드파일과 스크립트를 모아 둔 저장소 입니다. 모든 소스 파일은 각각 저장소의 주소에서 볼 수 있습니다 </h1>
+
+
 <h4>cpp_opengl_simple</h4>c++와 opengl 을 이용해서 만든 2d 슈팅게임, 조작법 wasd 이동, 마우스 클릭 - 수리검 날리기, z 음파쏘기<br>
 깃허브 주소 (https://github.com/jjg0606/practice_opengl_game.git)
                     
